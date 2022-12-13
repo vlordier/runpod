@@ -1,0 +1,7 @@
+jupyterlab
+ipywidgets
+jupyter-archive
+git+https://github.com/huggingface/diffusers.git 
+transformers 
+ftfy 
+accelerate
